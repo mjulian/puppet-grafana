@@ -1,3 +1,5 @@
+### This module forked and modified from bfraser/grafana
+
 #grafana
 
 [![Puppet Forge](http://img.shields.io/puppetforge/v/bfraser/grafana.svg)](https://forge.puppetlabs.com/bfraser/grafana)
